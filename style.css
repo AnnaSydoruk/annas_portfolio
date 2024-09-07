@@ -5,7 +5,7 @@
 body{
   min-height: 100vh;
   /*background: url('wave-gradient-background-luxury-dark-modern-design_343694-3088.jpg');*/
-  background-color: #0e8ca8; /*#007ea7 ;*/
+  background-color: #F7F4EDff;/ #0e8ca8; /*#007ea7 ;*/
   /*background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -105,11 +105,11 @@ nav li:first-child{
 }
 .about-me {
   flex: 2;
-  color: whitesmoke;
+  color: #585554ff;
 }
 
 h2 {
   font-family: Geneva, Tahoma, sans-serif;
-  color: whitesmoke;
-  font-style: italic; 
+  color: #585554ff; 
+  font-style: bold; 
 }
